@@ -15,7 +15,6 @@ Projeto base de Selenium Webdriver e Java da @qazando.
   - IntelliJ IDEA (Versão comunity mesmo)
 ```
 
-
 ## To Run
 
 ```bash
